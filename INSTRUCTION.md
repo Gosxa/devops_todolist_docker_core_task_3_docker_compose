@@ -1,3 +1,5 @@
+How to run todolist
+
 Clear the cash
 ``docker system prune -a``
 
@@ -5,6 +7,8 @@ Clear the cash
 Start docker-compose
 ``docker-compose up -d 
 ``
+
+Visit http://localhost:8080
 
 If u need to restart docker-compose use:
 ```
